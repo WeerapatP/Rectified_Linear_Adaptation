@@ -1,0 +1,1 @@
+The function simulate_abstract_NFkB.m solves the mathematical model presented in the supplementary information of the paper. Every file whose name starting with "fig" generates the corresponding figure. For example, "fig1def.m" generates the figure 1 part d, e, and f. We tested these codes on March 20, 2021, with MATLAB R2021a.
